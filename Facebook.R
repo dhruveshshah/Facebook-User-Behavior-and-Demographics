@@ -1,7 +1,5 @@
 #Understand Facebook user behaviour and demographics
 
-setwd("C:\\Users\\Dhruvesh\\Documents\\Custom Office Templates")
-list.files()
 pf<-read.csv("pseudo_facebook.tsv",sep = "\t")
 names(pf)
 
